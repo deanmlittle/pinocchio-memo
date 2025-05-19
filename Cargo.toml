@@ -12,4 +12,3 @@ pinocchio = "0.8.4"
 [dev-dependencies]
 mollusk-svm = "0.1.5"
 solana-sdk = "2.2.1"
-# solana-instruction = "2.2.1"
